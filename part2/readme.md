@@ -1,0 +1,1 @@
+--this part covers sql concepts 
